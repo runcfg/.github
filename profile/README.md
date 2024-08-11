@@ -1,12 +1,13 @@
-## Hi there 👋
+## runcfg.com
 
-<!--
+🛠️ We're making runtime configuration easier than ever!
 
-**Here are some ideas to get you started:**
+🔋 Batteries included, example projects to get you started - see [https://github.com/runcfg/runcfg-js-example](https://github.com/runcfg/runcfg-js-example)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+💻 Available clients for languages such as Rust, Go, .NET and JavaScript
+  - [runcfg-rs client](https://github.com/runcfg/runcfg-rs)
+  - [runcfg-go client](https://github.com/runcfg/runcfg-go)
+  - [runcfg-net client](https://github.com/runcfg/runcfg-net)
+  - [runcfg-js client](https://github.com/runcfg/runcfg-js)
+
+***Sign up now at [runcfg.com](https://runcfg.com) - get started in a few minutes***
